@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Antonio
 
-![Static Badge](https://img.shields.io/badge/linkedin%2C%20connectwithme%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Fantonio-turner-795450158%2F?style=for-the-badge)
+https://img.shields.io/badge/linkedin%2C%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Fantonio-turner-795450158%2F?style=for-the-badge
 
 
 I'm currently working on building a cloud-based Active Directory environment.
